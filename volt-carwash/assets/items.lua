@@ -1,0 +1,1 @@
+cleaningkit                  = { name = 'cleaningkit', label = 'Cleaning Kit', weight = 250, type = 'item', image = 'cleaningkit.png', unique = false, useable = true, shouldClose = true, description = 'A microfiber cloth with some soap will let your car sparkle again!' },
